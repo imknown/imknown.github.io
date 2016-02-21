@@ -1,0 +1,29 @@
+body, div, ul, li, p, a {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#mainText {
+    text-shadow:-2px 2px 5px gray;
+	text-align: center;
+	font-family: 'Microsoft YaHei UI';
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+img.noBorder {
+    border: 0px;
+}
