@@ -6,8 +6,12 @@ body, div, ul, li, p, a {
     text-decoration: none;
 }
 
+hr {
+	width: 70%;
+}
+
 #mainText {
-    text-shadow:-2px 2px 5px gray;
+    text-shadow:1px 1px 3px gray;
 	text-align: center;
 	font-family: 'Microsoft YaHei UI';
 }
