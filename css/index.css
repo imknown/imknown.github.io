@@ -1,33 +1,9 @@
-body, div, ul, li, p, a {
-    padding: 0px;
-    margin: 0px;
-    list-style: none;
-    font-size: 20px;
-    text-decoration: none;
-}
-
-hr {
-	width: 70%;
-}
-
-#mainText {
-    text-shadow:1px 1px 3px gray;
-	text-align: center;
-	font-family: 'Microsoft YaHei UI';
-}
-
-.red {
-    color: red;
-}
-
-.green {
-    color: green;
-}
-
-.bold {
+body {
+    background-color: black;
+    color: lightgreen;
+    font-family: 'Consolas';
+    font-size: 30px;
     font-weight: bold;
-}
-
-img.noBorder {
-    border: 0px;
+    text-align: center;
+    text-decoration: none;
 }
