@@ -1,7 +1,7 @@
 body {
     background-color: black;
     color: lightgreen;
-    font-family: 'DejaVu Sans Mono', Consolas, 'Roboto Mono', Meiryo;
+    font-family: monospace;
     font-size: 26px;
     font-weight: bold;
     text-align: center;
