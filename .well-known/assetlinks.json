@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : {
+    "namespace": "android_app", 
+    "package_name": "net.imknown.testandroid",
+    "sha256_cert_fingerprints": ["ef:38:5e:5b:d6:d5:e0:94:14:72:3e:c5:08:a6:14:35:40:b2:c8:f6:1b:4d:a2:bc:06:78:c8:23:aa:4c:dd:07"]
+  }
+}]
