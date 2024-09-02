@@ -3,6 +3,6 @@
   "target" : {
     "namespace": "android_app", 
     "package_name": "net.imknown.testandroid",
-    "sha256_cert_fingerprints": ["ef:38:5e:5b:d6:d5:e0:94:14:72:3e:c5:08:a6:14:35:40:b2:c8:f6:1b:4d:a2:bc:06:78:c8:23:aa:4c:dd:07"]
+    "sha256_cert_fingerprints": ["EF:38:5E:5B:D6:D5:E0:94:14:72:3E:C5:08:A6:14:35:40:B2:C8:F6:1B:4D:A2:BC:06:78:C8:23:AA:4C:DD:07"]
   }
 }]
